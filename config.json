@@ -1,0 +1,16 @@
+{
+  "token": "NzIxMTE1MTAwMDQ3NDc0Nzk5.XuP07w.eraljmKbvT5aUieeWPpG6dzOoXI",
+  "join_message": "I has joined to do stuff 🌟",
+  "prefix": [
+    ">"
+  ],
+  "owners":[
+    ],
+   "contributors":[
+   	"snow-blade"
+   ],
+  "playing": "The admin!",
+  "playing_type": "playing|watching|listening",
+  "status_type": "online|idle|dnd",
+  "version": "0.1.0"
+}
